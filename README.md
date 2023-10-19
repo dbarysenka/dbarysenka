@@ -6,11 +6,11 @@ Python \\ Odoo Developer
 
 Recent graduate in Engineering with experience in Python developing of web applications and web services. Seeking to utilize strong technical background together with excellent analytical, technical, and programming skills to develop in the field of IT and programming.
 
-* 🌍  I'm based in Bishkek
+* 🌍  I'm based in Warsaw
 * 🖥️  See my portfolio at [GitHub](http://github.com/dbarysenka/stoic_app)
 * ✉️  You can contact me at [denis.barysenka@gmail.com](mailto:denis.barysenka@gmail.com)
 * 🚀  I'm currently working on [Odoo](http://ventor.tech)
-* 🧠  I'm learning JavaScript
+* 🧠  I'm learning JavaScript and Data Engineering
 * 🤝  I'm open to collaborating on Python and Odoo
 
 ### Skills
