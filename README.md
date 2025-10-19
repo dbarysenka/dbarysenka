@@ -8,7 +8,7 @@ Recent graduate in Engineering with experience in Python developing of web appli
 
 * 🌍  I'm based in Warsaw
 * ✉️  You can contact me at [denis.barysenka@gmail.com](mailto:denis.barysenka@gmail.com)
-* 🚀  I'm currently working on [Odoo](http://ventor.tech)
+* 🚀  I'm currently working on [Data Engineering](https://capital.com/)
 * 🧠  I'm learning Data Engineering
 * 🤝  I'm open to collaborating on Python, Data Engineering, Odoo
 
